@@ -32,11 +32,15 @@ it was built on the basics School's 42 projects, with the addition of courses, b
 
 ## Resources
 
-[Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html//index.html)
-[writing a 5kb http server without libc](https://www.youtube.com/watch?v=K2Re0pG_1g4)
+1. [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html//index.html)
+2. [writing a 5kb http server without libc](https://www.youtube.com/watch?v=K2Re0pG_1g4)
+3. [Final Project: Building a Multithreaded Web Server](https://web.mit.edu/rust-lang_v1.25/arch/amd64_ubuntu1404/share/doc/rust/html/book/second-edition/ch20-00-final-project-a-web-server.html)
+4. [WIRESHARK LABS](https://gaia.cs.umass.edu/kurose_ross/wireshark.php)
+6. RFCs: IP, TCP, UDP, DHCP, DNS, HTTP, FTP
+
 ## Projects
 
-1. webserver
+1. webserver: HTTP server
 2. ft_p: This project is about implementing a client and a server that allow the transfer of files within a TCP/IP network
 
 
@@ -46,9 +50,8 @@ it was built on the basics School's 42 projects, with the addition of courses, b
 
 1. https://magisterquis.github.io/2018/03/31/in-memory-only-elf-execution.html
 2. https://samwho.dev/memory-allocation/
-
-
-[Stanford University - Criptografia I](https://www.coursera.org/learn/crypto?skills=Cryptography&sortBy=BEST_MATCH)
+3. [Making our own executable packer](https://fasterthanli.me/series/making-our-own-executable-packer)
+4. [Stanford University - Criptografia I](https://www.coursera.org/learn/crypto?skills=Cryptography&sortBy=BEST_MATCH)
 
 ## Projects
 
@@ -61,8 +64,8 @@ it was built on the basics School's 42 projects, with the addition of courses, b
 # ASM
 ## Resources
 
-1. Webserver leandrosp (mônica)
-2. [Fundamentos de assembly x86-64 (NASM)](https://www.youtube.com/playlist?list=PLXoSGejyuQGohd0arC7jRBqVdQqf5GqKJ )
+1. [Fundamentos de assembly x86-64 (NASM)](https://www.youtube.com/playlist?list=PLXoSGejyuQGohd0arC7jRBqVdQqf5GqKJ )
+2. Webserver leandrosp (mônica)
 
 ## Projects
 
@@ -87,7 +90,6 @@ Learning Linux Binary Analysis, Ryan O'neil
 2. root_me_cracking
 
 # Security
-
 
 ## Resources
 
