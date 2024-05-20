@@ -34,6 +34,12 @@ it was built on the basics School's 42 projects, with the addition of courses, b
 ## Resources
 
 1. [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html//index.html)
+2. [writing a 5kb http server without libc](https://www.youtube.com/watch?v=K2Re0pG_1g4)
+3. [Final Project: Building a Multithreaded Web Server](https://web.mit.edu/rust-lang_v1.25/arch/amd64_ubuntu1404/share/doc/rust/html/book/second-edition/ch20-00-final-project-a-web-server.html)
+4. [WIRESHARK LABS](https://gaia.cs.umass.edu/kurose_ross/wireshark.php)
+6. RFCs: IP, TCP, UDP, DHCP, DNS, HTTP, FTP
+
+1. [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html//index.html)
 2. Chapter 2 - Writing a basic web server from scratch, Rust Servers, Services, and apps - Prabhu Eshwarla
 
 ## Projects
@@ -46,8 +52,10 @@ it was built on the basics School's 42 projects, with the addition of courses, b
 
 ## Resources
 
-1. [Stanford University - Criptografia I](https://www.coursera.org/learn/crypto?skills=Cryptography&sortBy=BEST_MATCH)
-2. 
+1. https://magisterquis.github.io/2018/03/31/in-memory-only-elf-execution.html
+2. https://samwho.dev/memory-allocation/
+3. [Making our own executable packer](https://fasterthanli.me/series/making-our-own-executable-packer)
+4. [Stanford University - Criptografia I](https://www.coursera.org/learn/crypto?skills=Cryptography&sortBy=BEST_MATCH)
 
 ## Projects
 
@@ -58,10 +66,10 @@ it was built on the basics School's 42 projects, with the addition of courses, b
 5. ft_nmap
 
 # ASM
-
 ## Resources
 
-1. Webserver leandrosp (mônica)
+1. [Fundamentos de assembly x86-64 (NASM)](https://www.youtube.com/playlist?list=PLXoSGejyuQGohd0arC7jRBqVdQqf5GqKJ )
+2. Webserver leandrosp (mônica)
 
 ## Projects
 
@@ -69,12 +77,37 @@ it was built on the basics School's 42 projects, with the addition of courses, b
 
 # Reverses Enginner
 
+## Resources
+
+1. https://pqsec.org/2020/07/08/sandboxing-in-linux-with-zero-lines-of-code.html
+2. https://www.cse.unsw.edu.au/~learn/debugging/
+3. https://github.com/angea/pocorgtfo/blob/master/contents/articles/20-07.pdf
+Learning Linux Binary Analysis, Ryan O'neil 
+[Working with 010 Hex-Editor](https://www.youtube.com/playlist?list=PLCS2zI95IiNwheFCTaUEytA1GT0mNOOdn)
+[CERO - Curso de Engenharia Reversa Online](https://www.youtube.com/playlist?list=PLIfZMtpPYFP6zLKlnyAeWY1I85VpyshAA)
+[CEB - Curso de Exploração de Binários](https://www.youtube.com/playlist?list=PLIfZMtpPYFP4MaQhy_iR8uM0mJEs7P7s3)
+[Curso de Ghidra](https://www.youtube.com/playlist?list=PLIfZMtpPYFP5orPxcOZBn5cLOu7WG8xuF)
+
 ## Projects
 
 1. root_me_app_systeme
 2. root_me_cracking
 
-## Security
+# Security
+
+## Resources
+
+1. 
+
+## Projects
+
 1. snow-crash:This project will be an introduction to cyber security
 2. boot2root: This project is an introduction to system penetration.
 3. rainfall.en: This project is an introduction to the exploitation of (elf-like) binary.
+4. override: It will teach you how to exploit the (elf-like) binary
+5. woody_woodpacker: simple packer
+6. durex: This project will make you code a simple trojan horse.
+7. famine: This project is about coding your first virus.
+8. pestilence: Ofuscation
+9. war: In this project, you will code a "polymorphic" virus
+10. death: "metamorphic" virus
