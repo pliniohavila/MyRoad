@@ -12,6 +12,7 @@ it was built on the basics School's 42 projects, with the addition of courses, b
 - Algorithms and Data Structures
 
 ## Additionals
+
 [Understanding the Power of Bitwise Operators. No math needed](https://www.deusinmachina.net/p/understanding-the-power-of-bitwise)
 [Curso de Álgebra Booleana e Lógica proposicional - Matusalém Vieira Martins](https://www.youtube.com/playlist?list=PLVWA23fHCKz8MGHJpkJWbHvQn2tQAGHR_)
 
@@ -32,19 +33,21 @@ it was built on the basics School's 42 projects, with the addition of courses, b
 
 ## Resources
 
-[Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html//index.html)
-[writing a 5kb http server without libc](https://www.youtube.com/watch?v=K2Re0pG_1g4)
+1. [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html//index.html)
+2. Chapter 2 - Writing a basic web server from scratch, Rust Servers, Services, and apps - Prabhu Eshwarla
+
 ## Projects
 
 1. webserver
-2. ft_p: This project is about implementing a client and a server that allow the transfer of files within a TCP/IP network
+2. ft_p: This project is about implementing a client and a server that allow the transfer of files within a TCP/IP network (FTP)
 
 
 # Unix
 
 ## Resources
 
-[Stanford University - Criptografia I](https://www.coursera.org/learn/crypto?skills=Cryptography&sortBy=BEST_MATCH)
+1. [Stanford University - Criptografia I](https://www.coursera.org/learn/crypto?skills=Cryptography&sortBy=BEST_MATCH)
+2. 
 
 ## Projects
 
