@@ -34,13 +34,10 @@ it was built on the basics School's 42 projects, with the addition of courses, b
 ## Resources
 
 1. [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html//index.html)
-2. [writing a 5kb http server without libc](https://www.youtube.com/watch?v=K2Re0pG_1g4)
+2. Chapter 2 - Writing a basic web server from scratch, Rust Servers, Services, and apps - Prabhu Eshwarla
 3. [Final Project: Building a Multithreaded Web Server](https://web.mit.edu/rust-lang_v1.25/arch/amd64_ubuntu1404/share/doc/rust/html/book/second-edition/ch20-00-final-project-a-web-server.html)
 4. [WIRESHARK LABS](https://gaia.cs.umass.edu/kurose_ross/wireshark.php)
 6. RFCs: IP, TCP, UDP, DHCP, DNS, HTTP, FTP
-
-1. [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html//index.html)
-2. Chapter 2 - Writing a basic web server from scratch, Rust Servers, Services, and apps - Prabhu Eshwarla
 
 ## Projects
 
@@ -81,12 +78,11 @@ it was built on the basics School's 42 projects, with the addition of courses, b
 
 1. https://pqsec.org/2020/07/08/sandboxing-in-linux-with-zero-lines-of-code.html
 2. https://www.cse.unsw.edu.au/~learn/debugging/
-3. https://github.com/angea/pocorgtfo/blob/master/contents/articles/20-07.pdf
-Learning Linux Binary Analysis, Ryan O'neil 
-[Working with 010 Hex-Editor](https://www.youtube.com/playlist?list=PLCS2zI95IiNwheFCTaUEytA1GT0mNOOdn)
-[CERO - Curso de Engenharia Reversa Online](https://www.youtube.com/playlist?list=PLIfZMtpPYFP6zLKlnyAeWY1I85VpyshAA)
-[CEB - Curso de Exploração de Binários](https://www.youtube.com/playlist?list=PLIfZMtpPYFP4MaQhy_iR8uM0mJEs7P7s3)
-[Curso de Ghidra](https://www.youtube.com/playlist?list=PLIfZMtpPYFP5orPxcOZBn5cLOu7WG8xuF)
+3. [Working with 010 Hex-Editor](https://www.youtube.com/playlist?list=PLCS2zI95IiNwheFCTaUEytA1GT0mNOOdn)
+4. [CERO - Curso de Engenharia Reversa Online](https://www.youtube.com/playlist?list=PLIfZMtpPYFP6zLKlnyAeWY1I85VpyshAA)
+5. [CEB - Curso de Exploração de Binários](https://www.youtube.com/playlist?list=PLIfZMtpPYFP4MaQhy_iR8uM0mJEs7P7s3)
+6. [Curso de Ghidra](https://www.youtube.com/playlist?list=PLIfZMtpPYFP5orPxcOZBn5cLOu7WG8xuF)
+7. Learning Linux Binary Analysis, Ryan O'neil 
 
 ## Projects
 
