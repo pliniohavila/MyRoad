@@ -38,15 +38,15 @@ it was built on the basics School's 42 projects, with the addition of courses, b
 3. [Final Project: Building a Multithreaded Web Server](https://web.mit.edu/rust-lang_v1.25/arch/amd64_ubuntu1404/share/doc/rust/html/book/second-edition/ch20-00-final-project-a-web-server.html)
 4. [WIRESHARK LABS](https://gaia.cs.umass.edu/kurose_ross/wireshark.php)
 6. RFCs: IP, TCP, UDP, DHCP, DNS, HTTP, FTP
+7. [Let's code a TCP/IP stack, 1: Ethernet & ARP](https://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/)
+8. (Implementing TCP In Rust)[https://github.com/Ghvstcode/Rust-Tcp/tree/main]
 
 ## Projects
 
 1. webserver
-2. ft_p: This project is about implementing a client and a server that allow the transfer of files within a TCP/IP network (FTP)
-
+2. tcp/ip stack
 
 # Unix
-
 ## Resources
 
 1. https://magisterquis.github.io/2018/03/31/in-memory-only-elf-execution.html
@@ -54,9 +54,13 @@ it was built on the basics School's 42 projects, with the addition of courses, b
 3. [Making our own executable packer](https://fasterthanli.me/series/making-our-own-executable-packer)
 4. [Stanford University - Criptografia I](https://www.coursera.org/learn/crypto?skills=Cryptography&sortBy=BEST_MATCH)
 
+https://github.com/CCareaga/heap_allocator
+https://arjunsreedharan.org/post/148675821737/memory-allocators-101-write-a-simple-memory
+https://os.phil-opp.com/allocator-designs/
+
 ## Projects
 
-1. nm_otool
+1. nm_otool (suspenso)
 2. malloc   
 3. strace
 4. ft_ssl

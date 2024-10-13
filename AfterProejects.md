@@ -4,6 +4,9 @@
 # Courses
 
 1. [Linux Kernel Teaching](https://linux-kernel-labs.github.io/refs/heads/master/)
+2. [CS106A: Programming Methodologies](https://cs106a.stanford.edu)
+3. [CS106B](CS106B: Programming Abstractions)
+4. [CS107 - Programming Paradigms](https://see.stanford.edu/Course/CS107)
 
 # Youtube Playlists
 
