@@ -1,113 +1,201 @@
-# My Road
+# Recursos - Fundações da Computação e Formação Backend
+A ideia é relacionar um conjunto de cursos e projetos essenciais para formar uma base nos fundamentos da computação, programação com foco em backend, DevOps e Administração de Sistemas.
 
-This repository has the purpose the organise my studys from the basics computer towards a career in cybersecurity. 
+# Estudos atuais 
 
-it was built on the basics School's 42 projects, with the addition of courses, books and articles the i thought were relevant, even to make to do the respective projects. 
+1. Udemy PHP 
+2. Matemática
+
+# Fundamentos da Computação
+
+**Referência:** https://github.com/Universidade-Livre/ciencia-da-computacao 
+
+1. Matemática Discreta
+3. Estrutura de Dados 
+5. Laboratório de Programação Orientada a Objetos I || Curso de POO Java (Programação Orientada a Objetos)
+6. Algoritmos em Grafos
+7. Computer Systems - A Programmer’s Perspective
+8. Database Systems CMU 15-445/645 — Fall 2024
+9. Linguagens Formais e Autômatos
+10. Sistemas Distribuídos  - COS470: 10h00 + Exercícios e labs do MIT 6.824 
+11. TEP 2021.1 - Teoria dos Grafos
+12. Teoria da Computação 
+13. Compiladores 
+14. Criptografia (Stanford - Coursera) 
+
+# Formação Backend
+
+Estudar um conjunto de assuntos selecionados no contexto de Desenvolvimento Backend, DevOps e infraestrutura.  
+  
+O objetivo é construir uma repertório superficial de conhecimentos sobre os assuntos selecionados: possuir noções gerais sobre o tópico/tecnologia.  
+### Regras: 
+  
+* Um curso e um projeto guiado ou dois projetos guiados.  
+* Um livro ou documentação
+  
+Quando for em vídeo, dar preferência para conteúdo superior a três horas e inferior a vinte horas. Em outras palavras: que não seja muito curto – que por consequência é muito superficial – ou muito longo.  
+  
+Aos estudos de alguma linguagem de programação não se aplicam as regras acima. Está exceção se dá em razão da abrangência e complexidade do estudo de uma linguagem.
+
+### Assuntos
+**Reference: ** [Backend Developer - roadmap.sh](https://roadmap.sh/backend)
+
+1. Linguagens de Programação: PHP, Kotlin e Javascript
+2. Databases
+6. Autenticação: 
+7. Testes unitários
+8. Projetos 1
+9. Web Security 
+10. CI / CD
+11. Message Brokers
+12. WebSockets
+13. Projetos 2
+14. Containers
+15. DevOps
+16. Cloud
+17. NoSQL / MongoDB
+18. Projetos 3
+19. Administração de Sistemas
+20. Debugging avançado: 
+
+## Recursos 
+
+### Linguagens de Programação 
+
+#### PHP
+
+Cursos: 
+* Codeigniter 4 - Sistema de Ordem de Serviço Com Boleto e ACL - seções 9 + 20, 21: 12h00
+#### Kotlin
+Cursos: 
+* REST API's RESTFul do 0 à AWS c. Spring Boot Kotlin e Docker  Até a seção 24: 09h00
+* [Domine Microservicos e Mensageria com Spring Cloud e Docker](https://www.udemy.com/course/domine-microservicos-e-mensageria-com-spring-cloud-e-docke): 16h00 : Service Discovery, Api Gateway, Balanceamento de Carga, Microservices, RabbitMQ, Keycloak
+* 
+#### Javascript
+
+## Databases
+
+Não será feito um curso especifico. 
+A intenção é estudar [este raodmap](https://gist.github.com/coproduto/5e8cec614a86f1d5668e5322a8b2e67c) e os assuntos abaixo relacionados e praticar com o Hacerranker ou Sqlzoo. 
+
+1. Trabalhando com Data e Hora
+2. Junções (JOINS)
+3. Cláusulas e Filtros Avançados
+4. Funções Agregadas
+5. Subconsultas e Consultas Aninhadas
+6. Modelagem Básica
+7. Índices
+8.  Transações e Controle de Concorrência
+9. . Normalização e Denormalização Básica
+
+Obserrvação: Utilizar EXPLAIN/EXPLAIN ANALYZE para entender melhor as querys. 
 
 
+## Autenticação
 
-# Foudations 
+https://youtu.be/fyTxwIa-1U0?si=Hvat4gPmBhvd3Fw3 
 
-- Nand2Tetris 
-- Algorithms and Data Structures
+Estudar sobre cookies, sessions, JWT, OAuth2 e Keycloak
 
-## Additionals
+Estudar especificamente sobre cookies e sessions com PHP. 
 
-[Understanding the Power of Bitwise Operators. No math needed](https://www.deusinmachina.net/p/understanding-the-power-of-bitwise)
-[Curso de Álgebra Booleana e Lógica proposicional - Matusalém Vieira Martins](https://www.youtube.com/playlist?list=PLVWA23fHCKz8MGHJpkJWbHvQn2tQAGHR_)
+Estudar e fazer implementações básicas com JWT em PHP e Kotlin. 
 
-# Core I
+[Autenticação JWT com PHP](https://www.youtube.com/playlist?list=PLyugqHiq-SKc2qC6JYbjn5PsgIyKUATbI)
+Fazer uma implementação do zero. 
 
-## Resources
+O estudo de OAuth2 e Keycloak já será feito no curso: Domine Microservicos e Mensageria com Spring Cloud e Docker.
 
-1. [Putting the “You” in CPU](https://cpu.land) 
-2. [THE 10 OPERATING SYSTEM CONCEPTS SOFTWARE DEVELOPERS NEED TO REMEMBER](https://jameskle.com/writes/operating-systems)
-3. [SO 2020/2 - Andre Carvalho](https://www.youtube.com/playlist?list=PLmAZw8oyG75jlEikpiTlTxaVDUPadduJu)
+## Testes unitários
 
-## Projects
+Apenas assistir para ter uma noção: https://youtu.be/T6ChO8LQxRE?si=lLuZcoiG4A9UzhaO 
 
-1. Minishell
-2. Philosophers
+Não farei um curso especifico, vou pedir para IAs gerar testes e depois ir estudando os testes gerados com as respectivas documentações e tentando fazer os testes sozinhos
 
-# Core II
+## Projetos 1
 
-## Resources
+* PHP MVC framework: [MVC em PHP:](https://www.youtube.com/playlist?list=PL_zkXQGHYosGQwNkMMdhRZgm4GjspTnXs) 10h00
+* Todo List
+* URL Shortening Service
+* Desafio Back-end PicPay
+## Web Security 
 
-1. [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html//index.html)
-2. Chapter 2 - Writing a basic web server from scratch, Rust Servers, Services, and apps - Prabhu Eshwarla
-3. [Final Project: Building a Multithreaded Web Server](https://web.mit.edu/rust-lang_v1.25/arch/amd64_ubuntu1404/share/doc/rust/html/book/second-edition/ch20-00-final-project-a-web-server.html)
-4. [WIRESHARK LABS](https://gaia.cs.umass.edu/kurose_ross/wireshark.php)
-6. RFCs: IP, TCP, UDP, DHCP, DNS, HTTP, FTP
-7. [Let's code a TCP/IP stack, 1: Ethernet & ARP](https://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/)
-8. (Implementing TCP In Rust)[https://github.com/Ghvstcode/Rust-Tcp/tree/main]
+1. Preliminar para conhecer um pouco sobre o assunto:
+https://www.youtube.com/live/B2FVJdlthag?si=S-bTpx9VaiZLSUPL 
+https://youtu.be/qjrkV4RjgIU?si=HFZYup1aFjN6DIt_ 
 
-## Projects
+2. Em seguida fazer o seguinte curso: [CS 253 Web Security](https://web.stanford.edu/class/cs253/)
+3. Estudar writeups das vulnerabilidades apresentadas nos tópicos anteriores e praticar um pouco 
+## CI / CD
 
-1. webserver
-2. tcp/ip stack
+Não terá curso específico. Utilizará o material do curso Projeto DevOps.
+## Message Brokers
 
-# Unix
-## Resources
+[RabbitMQ: Parte 2 Prática Sistema de Mensageria | Protocolos Emergentes](https://www.youtube.com/watch?v=HCqfGcXdVhQ ): 1h
+[Microsserviços - AlgWorks (Apenas RabbitMQ)](https://www.youtube.com/playlist?list=PLZTjHbp2Y7809w3PLM0UE_LgQq6vk49q0)
 
-1. https://magisterquis.github.io/2018/03/31/in-memory-only-elf-execution.html
-2. https://samwho.dev/memory-allocation/
-3. [Making our own executable packer](https://fasterthanli.me/series/making-our-own-executable-packer)
-4. [Stanford University - Criptografia I](https://www.coursera.org/learn/crypto?skills=Cryptography&sortBy=BEST_MATCH)
+[Domine Apache Kafka, Fundamentos e Aplicações Reais](www.udemy.com/course/aprenda-apache-kafka)
+## WebSockets
 
-https://github.com/CCareaga/heap_allocator
-https://arjunsreedharan.org/post/148675821737/memory-allocators-101-write-a-simple-memory
-https://os.phil-opp.com/allocator-designs/
 
-## Projects
+Criando um Live Chat do ZERO com Spring Boot, Websocket, STOMP e AWS : https://www.youtube.com/watch?v=1kiUmIl7GgY : 0h50 
 
-1. nm_otool (suspenso)
-2. malloc   
-3. strace
-4. ft_ssl
-5. ft_nmap
+CodeIgniter 4 Real Time Chat App using WebSockets : https://www.youtube.com/watch?v=9qIIjv17IgQ&t=3526s : 1h30 
 
-# ASM
-## Resources
+## Projetos 2
+* Tic-Tae-Toe
+* Gerenciador Eletrônico de Documentos 
+* MessageQueue
+## Containers
 
-1. [Fundamentos de assembly x86-64 (NASM)](https://www.youtube.com/playlist?list=PLXoSGejyuQGohd0arC7jRBqVdQqf5GqKJ )
-2. Webserver leandrosp (mônica)
+[Fundamentos de Redes para DevOps](https://www.udemy.com/course/fundamentos-de-redes-para-devops) 7:00
+[Docker: Do Básico ao Avançado](https://www.udemy.com/course/docker-basico-ao-avancado) :  13h00
 
-## Projects
+## DevOps
 
-1. libasm_(new)
+[Projeto DevOps: Flask API - Do código ao deploy!](https://www.udemy.com/course/projeto-devops-flask-api-do-codigo-ao-deploy) : 14h00
 
-# Reverses Enginner
+## Cloud
 
-## Resources
+[Certificação Amazon AWS Certified Cloud Practitioner CLF-C02](# Certificação Amazon AWS Certified Cloud Practitioner CLF-C02) : 16h00
 
-1. https://pqsec.org/2020/07/08/sandboxing-in-linux-with-zero-lines-of-code.html
-2. https://www.cse.unsw.edu.au/~learn/debugging/
-3. [Working with 010 Hex-Editor](https://www.youtube.com/playlist?list=PLCS2zI95IiNwheFCTaUEytA1GT0mNOOdn)
-4. [CERO - Curso de Engenharia Reversa Online](https://www.youtube.com/playlist?list=PLIfZMtpPYFP6zLKlnyAeWY1I85VpyshAA)
-5. [CEB - Curso de Exploração de Binários](https://www.youtube.com/playlist?list=PLIfZMtpPYFP4MaQhy_iR8uM0mJEs7P7s3)
-6. [Curso de Ghidra](https://www.youtube.com/playlist?list=PLIfZMtpPYFP5orPxcOZBn5cLOu7WG8xuF)
-7. Learning Linux Binary Analysis, Ryan O'neil 
+## NoSQL / MongoDB
 
-## Projects
+## Projetos 3
+* Real Chat
+* Fix-me
+* Hackathon 42
+* Scalable E-Commerce Platform
+## Administração de Sistemas
 
-1. root_me_app_systeme
-2. root_me_cracking
+[Formação Linux Completa: Do Básico ao Avançado](# Formação Linux Completa: Do Básico ao Avançado): 23h00 
+[Linux Completo + Servidores](https://www.udemy.com/course/linux-completo-servidores): 17h00
+[Administração de Servidores e Serviços de Rede](https://www.udemy.com/course/adm-srv-redes): 11h00
+[Proxmox VE 8.x - do Básico ao Avançado](https://www.udemy.com/course/proxmox-ve-8x) : 10h00
+## Debugging avançado:
 
-# Security
+Este estudo será quase como fazer pesquisa. 
+A ideia é tentar ir aplicando no dia a dia dos estudos e projetos.
 
-## Resources
+* Profile de performance
+* Debug de race conditions
+* Análise de memory leaks
+* Troubleshooting em produção
 
-1. 
+## Lista de Projetos
 
-## Projects
+Todos os projetos, terá algum mecanismo de autenticação, um pouco de testes unitários, logging
 
-1. snow-crash:This project will be an introduction to cyber security
-2. boot2root: This project is an introduction to system penetration.
-3. rainfall.en: This project is an introduction to the exploitation of (elf-like) binary.
-4. override: It will teach you how to exploit the (elf-like) binary
-5. woody_woodpacker: simple packer
-6. durex: This project will make you code a simple trojan horse.
-7. famine: This project is about coding your first virus.
-8. pestilence: Ofuscation
-9. war: In this project, you will code a "polymorphic" virus
-10. death: "metamorphic" virus
+1. Todo List API com [segurança extra]([https://dev.to/zanfranceschi/desafio-crud-com-seguranca-extra-300g](https://dev.to/zanfranceschi/desafio-crud-com-seguranca-extra-300g)): JWT
+2. [Tic-tac-toe](https://www.freecodecamp.org/news/build-a-real-time-multiplayer-tic-tac-toe-game-using-websockets-and-microservices/  ) + chat + autenticação: 
+3. URL Shortening Service: https://www.freecodecamp.org/news/build-a-scalable-url-shortener-with-distributed-caching-using-redis/ + https://systemdesignschool.io/problems/url-shortener/solution 
+4. Desafio Back-end PicPay
+5. Gerenciador Eletrônico de Documentos (Estudar o Sapiens da AGU)
+6. Advanced Web Crawler: https://projects.masteringbackend.com/projects/build-your-own-advanced-web-crawler
+7. Real chat: https://gist.github.com/DanielHe4rt/4012e5bf9c612d9cee9efa654eb32f6d 
+8. MessageQueue (School 42)
+9. https://blog.codeminer42.com/hackathon-2024-codeminer-42/ - https://gist.github.com/talyssonoc/0c1c64abaa1ff82e29297756fc7c0b1b 
+10. Fix-Me (School 42)
+11. Scalable E-Commerce Platform
+12. PHP MVC framework
+13. Virtual dom
