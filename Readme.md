@@ -4,24 +4,25 @@ A ideia é relacionar um conjunto de cursos e projetos essenciais para formar um
 # Estudos atuais 
 
 1. Udemy PHP 
-2. Matemática
+2. Matemática Discreta
 
 # Fundamentos da Computação
 
-**Referência:** https://github.com/Universidade-Livre/ciencia-da-computacao 
+**Referência:** [Universidade Brasileira Livre](https://github.com/Universidade-Livre/ciencia-da-computacao )
 
-1. Matemática Discreta
-3. Estrutura de Dados 
+1. [Matemática Discreta](https://www.youtube.com/watch?v=KGoSTh1sgyM&list=PL6mfjjCaO1WrEJ0JKRyXO3QjaPkJaSvAS)
+2. [Estrutura de Dados](https://www.youtube.com/watch?v=0hT3EKGhbpI&list=PLndfcZyvAqbofQl2kLLdeWWjCcPlOPnrW) 
 5. Laboratório de Programação Orientada a Objetos I || Curso de POO Java (Programação Orientada a Objetos)
-6. Algoritmos em Grafos
+6. [Algoritmos em Grafos](https://www.youtube.com/watch?v=fjOiu6CD5pc&list=PLrPn-zKAOzUzKdPqFNF52g-i9p1f-vmsk)
 7. Computer Systems - A Programmer’s Perspective
-8. Database Systems CMU 15-445/645 — Fall 2024
-9. Linguagens Formais e Autômatos
-10. Sistemas Distribuídos  - COS470: 10h00 + Exercícios e labs do MIT 6.824 
-11. TEP 2021.1 - Teoria dos Grafos
-12. Teoria da Computação 
-13. Compiladores 
-14. Criptografia (Stanford - Coursera) 
+8. Projetos de Redes de Computadores: Labs do MIT 6.828 e Stanford CS144
+9. Database Systems CMU 15-445/645 — Fall 2024
+10. [Linguagens Formais e Autômatos](https://www.youtube.com/watch?v=4zMwOozUt9U&list=PLncEdvQ20-mhD_qMeLHtLnA3XDT1Fr_k4&pp=iAQB)
+11. [Sistemas Distribuídos  - COS470](https://www.youtube.com/watch?v=TEEy5f46h_Q&list=PLP0bYj2MTFcuXa4-EbBKhvehr-rkxpeR8&index=1) : 10h00 + Exercícios e labs do MIT 6.824 
+12. [TEP 2021.1 - Teoria dos Grafos](https://www.youtube.com/watch?v=kfHqZLYHfHU&list=PLndfcZyvAqbr2MLCOLEvBNX6FgD8UNWfX)
+13. [Teoria da Computação](https://www.youtube.com/watch?v=dWRxL30aoes&list=PLYLYA7XrlskNgCeSpJf9PQHHb8Z4WpRm4) 
+14. [Compiladores](https://youtube.com/playlist?list=PLX6Nyaq0ebfhI396WlWN6WlBm-tp7vDtV&si=LoaU9lzLMuSVikgi) 
+15. [Criptografia - (Stanford: Coursera)](https://www.coursera.org/learn/crypto) : 23h
 
 # Formação Backend
 
@@ -38,7 +39,7 @@ Quando for em vídeo, dar preferência para conteúdo superior a três horas e i
 Aos estudos de alguma linguagem de programação não se aplicam as regras acima. Está exceção se dá em razão da abrangência e complexidade do estudo de uma linguagem.
 
 ### Assuntos
-**Reference: ** [Backend Developer - roadmap.sh](https://roadmap.sh/backend)
+**Referências:** [Backend Developer - roadmap.sh](https://roadmap.sh/backend)
 
 1. Linguagens de Programação: PHP, Kotlin e Javascript
 2. Databases
@@ -46,17 +47,15 @@ Aos estudos de alguma linguagem de programação não se aplicam as regras acima
 7. Testes unitários
 8. Projetos 1
 9. Web Security 
-10. CI / CD
-11. Message Brokers
-12. WebSockets
-13. Projetos 2
-14. Containers
-15. DevOps
-16. Cloud
-17. NoSQL / MongoDB
-18. Projetos 3
-19. Administração de Sistemas
-20. Debugging avançado: 
+10. Message Brokers
+11. WebSockets
+12. Projetos 2
+13. Containers
+14. DevOps
+15. Cloud
+16. NoSQL / MongoDB
+17. Projetos 3
+18. Administração de Sistemas
 
 ## Recursos 
 
@@ -75,21 +74,7 @@ Cursos:
 
 ## Databases
 
-Não será feito um curso especifico. 
-A intenção é estudar [este raodmap](https://gist.github.com/coproduto/5e8cec614a86f1d5668e5322a8b2e67c) e os assuntos abaixo relacionados e praticar com o Hacerranker ou Sqlzoo. 
-
-1. Trabalhando com Data e Hora
-2. Junções (JOINS)
-3. Cláusulas e Filtros Avançados
-4. Funções Agregadas
-5. Subconsultas e Consultas Aninhadas
-6. Modelagem Básica
-7. Índices
-8.  Transações e Controle de Concorrência
-9. . Normalização e Denormalização Básica
-
-Obserrvação: Utilizar EXPLAIN/EXPLAIN ANALYZE para entender melhor as querys. 
-
+A intenção é estudar [este raodmap](https://gist.github.com/coproduto/5e8cec614a86f1d5668e5322a8b2e67c) e praticar com o Hacerranker ou Sqlzoo. 
 
 ## Autenticação
 
