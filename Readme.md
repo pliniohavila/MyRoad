@@ -10,19 +10,20 @@ A ideia é relacionar um conjunto de cursos e projetos essenciais para formar um
 
 **Referência:** [Universidade Brasileira Livre](https://github.com/Universidade-Livre/ciencia-da-computacao )
 
-1. [Matemática Discreta](https://www.youtube.com/watch?v=KGoSTh1sgyM&list=PL6mfjjCaO1WrEJ0JKRyXO3QjaPkJaSvAS)
-2. [Estrutura de Dados](https://www.youtube.com/watch?v=0hT3EKGhbpI&list=PLndfcZyvAqbofQl2kLLdeWWjCcPlOPnrW) 
-5. Laboratório de Programação Orientada a Objetos I || Curso de POO Java (Programação Orientada a Objetos)
-6. [Algoritmos em Grafos](https://www.youtube.com/watch?v=fjOiu6CD5pc&list=PLrPn-zKAOzUzKdPqFNF52g-i9p1f-vmsk)
-7. Computer Systems - A Programmer’s Perspective
-8. Projetos de Redes de Computadores: Labs do MIT 6.828 e Stanford CS144
-9. Database Systems CMU 15-445/645 — Fall 2024
-10. [Linguagens Formais e Autômatos](https://www.youtube.com/watch?v=4zMwOozUt9U&list=PLncEdvQ20-mhD_qMeLHtLnA3XDT1Fr_k4&pp=iAQB)
-11. [Sistemas Distribuídos  - COS470](https://www.youtube.com/watch?v=TEEy5f46h_Q&list=PLP0bYj2MTFcuXa4-EbBKhvehr-rkxpeR8&index=1) : 10h00 + Exercícios e labs do MIT 6.824 
-12. [TEP 2021.1 - Teoria dos Grafos](https://www.youtube.com/watch?v=kfHqZLYHfHU&list=PLndfcZyvAqbr2MLCOLEvBNX6FgD8UNWfX)
-13. [Teoria da Computação](https://www.youtube.com/watch?v=dWRxL30aoes&list=PLYLYA7XrlskNgCeSpJf9PQHHb8Z4WpRm4) 
-14. [Compiladores](https://youtube.com/playlist?list=PLX6Nyaq0ebfhI396WlWN6WlBm-tp7vDtV&si=LoaU9lzLMuSVikgi) 
-15. [Criptografia - (Stanford: Coursera)](https://www.coursera.org/learn/crypto) : 23h
+1. [Matemática Discreta](https://www.youtube.com/watch?v=KGoSTh1sgyM&list=PL6mfjjCaO1WrEJ0JKRyXO3QjaPkJaSvAS) : 24h
+2. [Estrutura de Dados](https://www.youtube.com/watch?v=0hT3EKGhbpI&list=PLndfcZyvAqbofQl2kLLdeWWjCcPlOPnrW) : 24h
+3. [Algoritmos em Grafos](https://www.youtube.com/watch?v=fjOiu6CD5pc&list=PLrPn-zKAOzUzKdPqFNF52g-i9p1f-vmsk) : 24h
+4. Computer Systems - A Programmer’s Perspective : 30h
+5. Projetos de Redes de Computadores: Labs do MIT 6.828 e Stanford CS144 20h : 20h
+6. [Database Systems CMU 15-445/645 — Fall 2024](https://15445.courses.cs.cmu.edu/fall2024/) : 25h
+7. [Linguagens Formais e Autômatos](https://www.youtube.com/watch?v=4zMwOozUt9U&list=PLncEdvQ20-mhD_qMeLHtLnA3XDT1Fr_k4&pp=iAQB) : 21h
+8. [Sistemas Distribuídos  - COS470](https://www.youtube.com/watch?v=TEEy5f46h_Q&list=PLP0bYj2MTFcuXa4-EbBKhvehr-rkxpeR8&index=1) : 10h00 + Exercícios e labs do MIT 6.824 
+9. [TEP 2021.1 - Teoria dos Grafos](https://www.youtube.com/watch?v=kfHqZLYHfHU&list=PLndfcZyvAqbr2MLCOLEvBNX6FgD8UNWfX) : 25h
+10. [Teoria da Computação](https://www.youtube.com/watch?v=dWRxL30aoes&list=PLYLYA7XrlskNgCeSpJf9PQHHb8Z4WpRm4) : 10h
+11. [Compiladores](https://youtube.com/playlist?list=PLX6Nyaq0ebfhI396WlWN6WlBm-tp7vDtV&si=LoaU9lzLMuSVikgi) : 25h
+12. [Criptografia - (Stanford: Coursera)](https://www.coursera.org/learn/crypto) : 23h
+
+Aproximadamente 261 horas. 
 
 # Formação Backend
 
@@ -53,9 +54,8 @@ Aos estudos de alguma linguagem de programação não se aplicam as regras acima
 13. Containers
 14. DevOps
 15. Cloud
-16. NoSQL / MongoDB
-17. Projetos 3
-18. Administração de Sistemas
+16. Projetos 3
+17. Administração de Sistemas
 
 ## Recursos 
 
@@ -65,6 +65,7 @@ Aos estudos de alguma linguagem de programação não se aplicam as regras acima
 
 Cursos: 
 * Codeigniter 4 - Sistema de Ordem de Serviço Com Boleto e ACL - seções 9 + 20, 21: 12h00
+
 #### Kotlin
 Cursos: 
 * REST API's RESTFul do 0 à AWS c. Spring Boot Kotlin e Docker  Até a seção 24: 09h00
@@ -103,6 +104,7 @@ Não farei um curso especifico, vou pedir para IAs gerar testes e depois ir estu
 * Todo List
 * URL Shortening Service
 * Desafio Back-end PicPay
+
 ## Web Security 
 
 1. Preliminar para conhecer um pouco sobre o assunto:
@@ -111,17 +113,15 @@ https://youtu.be/qjrkV4RjgIU?si=HFZYup1aFjN6DIt_
 
 2. Em seguida fazer o seguinte curso: [CS 253 Web Security](https://web.stanford.edu/class/cs253/)
 3. Estudar writeups das vulnerabilidades apresentadas nos tópicos anteriores e praticar um pouco 
-## CI / CD
 
-Não terá curso específico. Utilizará o material do curso Projeto DevOps.
 ## Message Brokers
 
 [RabbitMQ: Parte 2 Prática Sistema de Mensageria | Protocolos Emergentes](https://www.youtube.com/watch?v=HCqfGcXdVhQ ): 1h
 [Microsserviços - AlgWorks (Apenas RabbitMQ)](https://www.youtube.com/playlist?list=PLZTjHbp2Y7809w3PLM0UE_LgQq6vk49q0)
 
 [Domine Apache Kafka, Fundamentos e Aplicações Reais](www.udemy.com/course/aprenda-apache-kafka)
-## WebSockets
 
+## WebSockets
 
 Criando um Live Chat do ZERO com Spring Boot, Websocket, STOMP e AWS : https://www.youtube.com/watch?v=1kiUmIl7GgY : 0h50 
 
@@ -151,25 +151,19 @@ CodeIgniter 4 Real Time Chat App using WebSockets : https://www.youtube.com/watc
 * Fix-me
 * Hackathon 42
 * Scalable E-Commerce Platform
+
 ## Administração de Sistemas
 
 [Formação Linux Completa: Do Básico ao Avançado](# Formação Linux Completa: Do Básico ao Avançado): 23h00 
 [Linux Completo + Servidores](https://www.udemy.com/course/linux-completo-servidores): 17h00
 [Administração de Servidores e Serviços de Rede](https://www.udemy.com/course/adm-srv-redes): 11h00
 [Proxmox VE 8.x - do Básico ao Avançado](https://www.udemy.com/course/proxmox-ve-8x) : 10h00
-## Debugging avançado:
 
-Este estudo será quase como fazer pesquisa. 
-A ideia é tentar ir aplicando no dia a dia dos estudos e projetos.
-
-* Profile de performance
-* Debug de race conditions
-* Análise de memory leaks
-* Troubleshooting em produção
 
 ## Lista de Projetos
 
-Todos os projetos, terá algum mecanismo de autenticação, um pouco de testes unitários, logging
+Todos os projetos, terá algum mecanismo de autenticação, um pouco de testes unitários e logging. 
+Buscar utilizar ferramentas de debug, análise estática de código e medição de desempenho.
 
 1. Todo List API com [segurança extra]([https://dev.to/zanfranceschi/desafio-crud-com-seguranca-extra-300g](https://dev.to/zanfranceschi/desafio-crud-com-seguranca-extra-300g)): JWT
 2. [Tic-tac-toe](https://www.freecodecamp.org/news/build-a-real-time-multiplayer-tic-tac-toe-game-using-websockets-and-microservices/  ) + chat + autenticação: 
