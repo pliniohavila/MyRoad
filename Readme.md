@@ -14,14 +14,18 @@ A ideia é relacionar um conjunto de cursos e projetos essenciais para formar um
 2. [Estrutura de Dados](https://www.youtube.com/watch?v=0hT3EKGhbpI&list=PLndfcZyvAqbofQl2kLLdeWWjCcPlOPnrW) : 24h
 3. [Algoritmos em Grafos](https://www.youtube.com/watch?v=fjOiu6CD5pc&list=PLrPn-zKAOzUzKdPqFNF52g-i9p1f-vmsk) : 24h
 4. Computer Systems - A Programmer’s Perspective : 30h
-5. Projetos de Redes de Computadores: Labs do MIT 6.828 e Stanford CS144 20h : 20h
-6. [Database Systems CMU 15-445/645 — Fall 2024](https://15445.courses.cs.cmu.edu/fall2024/) : 25h
-7. [Linguagens Formais e Autômatos](https://www.youtube.com/watch?v=4zMwOozUt9U&list=PLncEdvQ20-mhD_qMeLHtLnA3XDT1Fr_k4&pp=iAQB) : 21h
-8. [Sistemas Distribuídos  - COS470](https://www.youtube.com/watch?v=TEEy5f46h_Q&list=PLP0bYj2MTFcuXa4-EbBKhvehr-rkxpeR8&index=1) : 10h00 + Exercícios e labs do MIT 6.824 
-9. [TEP 2021.1 - Teoria dos Grafos](https://www.youtube.com/watch?v=kfHqZLYHfHU&list=PLndfcZyvAqbr2MLCOLEvBNX6FgD8UNWfX) : 25h
-10. [Teoria da Computação](https://www.youtube.com/watch?v=dWRxL30aoes&list=PLYLYA7XrlskNgCeSpJf9PQHHb8Z4WpRm4) : 10h
-11. [Compiladores](https://youtube.com/playlist?list=PLX6Nyaq0ebfhI396WlWN6WlBm-tp7vDtV&si=LoaU9lzLMuSVikgi) : 25h
-12. [Criptografia - (Stanford: Coursera)](https://www.coursera.org/learn/crypto) : 23h
+5. [CS107 - Programming Paradigms](https://see.stanford.edu/course/cs107): 22h
+6. Projetos de Redes de Computadores: Labs do MIT 6.828 e Stanford CS144 20h : 20h
+7. [Database Systems CMU 15-445/645 — Fall 2024](https://15445.courses.cs.cmu.edu/fall2024/) : 25h
+8. [Introdução à Engenharia de Software](https://www.youtube.com/watch?v=h_hEI1Kfm2U&list=PLhBaeEzs3d7lsn_Mq2n3R4_api16Wkp1Q) : 8h
+9. [Linguagens Formais e Autômatos](https://www.youtube.com/watch?v=4zMwOozUt9U&list=PLncEdvQ20-mhD_qMeLHtLnA3XDT1Fr_k4&pp=iAQB) : 21h
+10. [Probabilidade e Estatística](https://www.youtube.com/watch?v=snXf8YT7L3U&list=PLrOyM49ctTx8HWnxWRBtKrfcuf7ew_3nm) 22h
+11. [Inteligência Artificial](https://www.youtube.com/playlist?list=PLeejGOroKw_txh7j7S3etF5eudI2WvMx0) : 16h
+12. [Sistemas Distribuídos  - COS470](https://www.youtube.com/watch?v=TEEy5f46h_Q&list=PLP0bYj2MTFcuXa4-EbBKhvehr-rkxpeR8&index=1) : 10h00 + Exercícios e labs do MIT 6.824 
+13. [TEP 2021.1 - Teoria dos Grafos](https://www.youtube.com/watch?v=kfHqZLYHfHU&list=PLndfcZyvAqbr2MLCOLEvBNX6FgD8UNWfX) : 25h
+14. [Teoria da Computação](https://www.youtube.com/watch?v=dWRxL30aoes&list=PLYLYA7XrlskNgCeSpJf9PQHHb8Z4WpRm4) : 10h
+15. [Compiladores](https://youtube.com/playlist?list=PLX6Nyaq0ebfhI396WlWN6WlBm-tp7vDtV&si=LoaU9lzLMuSVikgi) : 25h
+16. [Criptografia - (Stanford: Coursera)](https://www.coursera.org/learn/crypto) : 23h
 
 Aproximadamente 261 horas. 
 
