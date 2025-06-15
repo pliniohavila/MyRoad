@@ -6,71 +6,97 @@ The guide is from the fundamentals in computer science to cybersecurity carrier.
 
 The idea is that the study is based mainly in books.
 
-The guide is divided into blocks: fundamentals and cybersecurity basics.
+The guide is divided into blocks: fundamentals and cybersecurity.
 
 
-## Fundamentals
+## Fundamentals in Science Computer + English
 
 1. English 
-2. Math Basic
-3. Discrete Mathematics (Matemática Discreta: Uma Introdução, SCHEINERMAN, E.R.)
-4. School 42 - lista de exercícios de C++ more any projects
-5. Data Structures (only Trees)
-6. Algoritmos Teoria e Prática
-7. Linguagens: Programação em Baixo Nível, por Igor Zhirkov, e C++ 
-8. Arquitetura de Computadores: Organização Estruturada de Computadores 
-9. Algoritmos em Grafos e Teoria dos grafos  (Playlist Youtube)
-9. Sistemas Operacionais (Sistemas Operacionais Modernos) 
-10. Compiles: Construindo Compiladores, Keith Keith Cooper
-11. Network: TCP/IP Illustrated, Volume 1: The Protocols, 2nd Edition and Volumes 2 and 3
-12. Criptografia: O livro dos códigos, Criptografia e Teoria dos Números, Applied Cryptography, Second Edition: Protocols, Algorithms, and Source Code in C
-13. Database Systems CMU 15-445/645
+2. Discrete Mathematics (Matemática Discreta: Uma Introdução, SCHEINERMAN, E.R.)
+3. Linguagens: Programação em Baixo Nível, por Igor Zhirkov, e C++ 
+4. [Algoritmos em Grafos (Playlist Youtube)]
+5. Especialização em Estruturas de dados e algoritmos - UC San Diego (Coursera)
+6. Teoria dos grafos 
+7. [Linguagens Formais e Autômatos](https://www.youtube.com/playlist?list=PLncEdvQ20-mhD_qMeLHtLnA3XDT1Fr_k4)
+8. Sistemas Operacionais (Sistemas Operacionais Modernos)
+9. Compiles: Construindo Compiladores, Keith Keith Cooper
+9. "Computer Networking: A Top-Down Approach" – Kurose & Ross supported by Network: TCP/IP Illustrated, Volume 1: The Protocols, 2nd Edition and Volumes 2 and 3
+10. [Especialização em Criptografia aplicada](https://www.coursera.org/specializations/applied-crypto) || Stallings Criptografia e segurança de redes
+11. Database Systems CMU 15-445/645
+12. Sistemas Distribuidos
+13. [Inteligência Artificial](https://www.youtube.com/playlist?list=PLeejGOroKw_txh7j7S3etF5eudI2WvMx0)
+14. [COS470 - Sistemas Distribuídos](https://www.youtube.com/playlist?list=PLP0bYj2MTFcuXa4-EbBKhvehr-rkxpeR8)
 
-### Cybersecurity Basics
 
+
+## Cybersecurity
+
+### Specializations and Courses
+
+- [Especialização em Práticas de codificação segura - Coursera UC Davis](https://www.coursera.org/specializations/secure-coding-practices)
+- [Especialização em Segurança de computadores e gerenciamento de sistemas - Coursera](https://www.coursera.org/specializations/computer-security-systems-management)
+- [Especialização em CompTIA Network+ Certification (N10-008): The Total Course -Coursera](https://www.coursera.org/specializations/packt-comptia-network-certification-n10-008-the-total-course)
+- [VPN Tunneling with OpenVPN: Secure Network Connections - Coursera](https://www.coursera.org/projects/vpn-tunneling-with-openvpn-secure-network-connections)
+- [Especialização em Computação em nuvemComputação em Nuvem - Coursera](https://www.coursera.org/specializations/cloud-computing)
+- [DFIR (Digital Forensics and Incident Response)](https://www.mentebinaria.com.br/courses/course/2-dfir/)
+- [Especialização em Fundamentos da segurança de redes de computadores](https://www.coursera.org/specializations/computer-network-security)
+- [Especialização em Projeto avançado de segurança de sistemas](https://www.coursera.org/specializations/advanced-system-security-design)
+
+### Books
 
 1. Windows:
-Windows Internals I
-Windows Security Internals A Deep Dive into Windows Authentication
+- Windows Internals I
+- Windows Security Internals A Deep Dive into Windows Authentication
 
 2. Linux:
-Linux System Programming: Talking Directly to the Kernel and C Library 
-Linux Kernel Programming: A comprehensive guide to kernel internals, writing kernel modules, and kernel synchronization
+- Linux System Programming: Talking Directly to the Kernel and C Library 
+- Linux Kernel Programming: A comprehensive guide to kernel internals, writing kernel modules, and kernel synchronization
 
-3. Misc: 
-Testes de Invasão: uma Introdução Prática ao Hacking
-The Hacker Playbook 3: Practical Guide To Penetration Testing,de Peter Kim
-Hacking: The art of Exploitation -  John Erickson
-Gray Hat Hacking: The Ethical Hacker's Handbook,
-Metasploit: The Penetration Tester's Guide
-Advanced Penetration Testing, Wil Allsopp
+3. Red Team and Security Research: 
+- Testes de Invasão: uma Introdução Prática ao Hacking
+- The Hacker Playbook 3: Practical Guide To Penetration Testing,de Peter Kim
+- Hacking: The art of Exploitation -  John Erickson
+- Gray Hat Hacking: The Ethical Hacker's Handbook,
+- Metasploit: The Penetration Tester's Guide
+- Advanced Penetration Testing, Wil Allsopp
+- The Shellcoder's Handbook - Chris Anley, John Heasman & Felix Linder (Livro/Inglês)
+- Evasive malware 
+- Sockets, Shellcode, Porting & Codding, James, C. Foster
+- A Guide to Kernel Exploitation Attacking the Core
 
-4. Network: 
-Practical Packet Analysis,
-Wireshark para profissionais de segurança: Usando Wireshark e o Metasploit Framework Jeff T. Parker
-Attacking Network Protocols: A Hacker's Guide to Capture, Analysis, and Exploitation
+4. Network Security: 
+- Practical Packet Analysis,
+- Wireshark para profissionais de segurança: Usando Wireshark e o Metasploit Framework Jeff T. Parker
+- Attacking Network Protocols: A Hacker's Guide to Capture, Analysis, and Exploitation
+- Internet Security: A Hands-on Approach (Computer & Internet Security), de Wenliang Du 
 
-5. Web:
-The Web Application Hacker's Handbook
+5. Web Security:
+- The Web Application Hacker's Handbook
 
 6. Engenharia Reversa
-Learning Linux Binary Analysis
-Practical Reverse Engineering: x86, x64, ARM, Windows Kernel, Reversing Tools, and Obfuscation
-Mastering Reverse Engineering: Re-engineer your ethical hacking skills
-Practical Binary Analysis
+- Learning Linux Binary Analysis
+- Practical Reverse Engineering: x86, x64, ARM, Windows Kernel, Reversing Tools, and Obfuscation
+- Mastering Reverse Engineering: Re-engineer your ethical hacking skills
+- Practical Binary Analysis
 
-7. Analista de Resposta a Incidentes e Forense:
-The Art of Memory Forensics - Michael Hale Ligh, Andrew Case & Jamie Levy 
-Aprenda Computação Forense: um Guia Para Iniciantes Para Buscar, Analisar e Proteger Evidências Digitais
+7. Digital Forensics and Incident Response:
+- The Art of Memory Forensics - Michael Hale Ligh, Andrew Case & Jamie Levy 
+- Aprenda Computação Forense: um Guia Para Iniciantes Para Buscar, Analisar e Proteger Evidências Digitais
+- File System Forensics (Ver um livro)
+- Windows Registry Forensics (Ver um livro)
+- Mobile Forensics (Ver um livro)
 
-8. Desenvolvimento ofensivo:
-The Shellcoder's Handbook - Chris Anley, John Heasman & Felix Linder (Livro/Inglês)
-Evasive malware 
-Sockets, Shellcode, Porting & Codding, James, C. Foster
+9. Malware: 
+- Practical Malware Analysis - Michael Sikorski & Andrew Honig (Livro/Inglês)
+- Learning Malware Analysis - Monnappa K A (Livro/Inglês)
 
-9. Analista de Malware: 
-Practical Malware Analysis - Michael Sikorski & Andrew Honig (Livro/Inglês)
-Learning Malware Analysis - Monnappa K A (Livro/Inglês)
+10. Cryptograph
+- Serious Cryptography: A Practical Introduction to Modern Encryption,de Jean-Philippe Aumasson 
+- O livro dos códigos, Criptografia e Teoria dos Números, Applied Cryptography, Second Edition: Protocols, 
+
+11. CTFs Practice and Study with write-ups
+- TryHackMe (guided practice)
+- Hack The Box Academy
 
 ## References:
 
