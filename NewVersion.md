@@ -31,6 +31,8 @@ The guide is divided into blocks: fundamentals and cybersecurity.
 
 ## Cybersecurity
 
+I'm thinking of using the PWN College curriculum as a road with supported by books bellow.
+
 ### Specializations and Courses
 
 - [Especialização em Práticas de codificação segura - Coursera UC Davis](https://www.coursera.org/specializations/secure-coding-practices)
@@ -95,6 +97,7 @@ The guide is divided into blocks: fundamentals and cybersecurity.
 - O livro dos códigos, Criptografia e Teoria dos Números, Applied Cryptography, Second Edition: Protocols, 
 
 11. CTFs Practice and Study with write-ups
+- PWN College - University of Arizona
 - TryHackMe (guided practice)
 - Hack The Box Academy
 
