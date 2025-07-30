@@ -11,38 +11,24 @@ The guide is divided into blocks: fundamentals and cybersecurity.
 
 ## Fundamentals in Science Computer + English
 
-1. English 
-2. Discrete Mathematics (Matemática Discreta: Uma Introdução, SCHEINERMAN, E.R.)
-3. Linguagens: Programação em Baixo Nível, por Igor Zhirkov, e C++ 
-4. [Algoritmos em Grafos (Playlist Youtube)]
-5. Especialização em Estruturas de dados e algoritmos - UC San Diego (Coursera)
-6. Teoria dos grafos 
-7. [Linguagens Formais e Autômatos](https://www.youtube.com/playlist?list=PLncEdvQ20-mhD_qMeLHtLnA3XDT1Fr_k4)
-8. Sistemas Operacionais (Sistemas Operacionais Modernos)
+1. Discrete Mathematics (Matemática Discreta: Uma Introdução, SCHEINERMAN, E.R.)
+2. Linguagens: Programação em Baixo Nível, por Igor Zhirkov, e C++ 
+3. [Algoritmos em Grafos (Playlist Youtube)]
+4. Especialização em Estruturas de dados e algoritmos - UC San Diego (Coursera)
+5. Teoria dos grafos
+6. [Linguagens Formais e Autômatos](https://www.youtube.com/playlist?list=PLncEdvQ20-mhD_qMeLHtLnA3XDT1Fr_k4)
+7. Sistemas Operacionais (Sistemas Operacionais Modernos)
 9. Compiles: Construindo Compiladores, Keith Keith Cooper
-9. "Computer Networking: A Top-Down Approach" – Kurose & Ross supported by Network: TCP/IP Illustrated, Volume 1: The Protocols, 2nd Edition and Volumes 2 and 3
-10. [Especialização em Criptografia aplicada](https://www.coursera.org/specializations/applied-crypto) || Stallings Criptografia e segurança de redes
-11. Database Systems CMU 15-445/645
-12. Sistemas Distribuidos
-13. [Inteligência Artificial](https://www.youtube.com/playlist?list=PLeejGOroKw_txh7j7S3etF5eudI2WvMx0)
-14. [COS470 - Sistemas Distribuídos](https://www.youtube.com/playlist?list=PLP0bYj2MTFcuXa4-EbBKhvehr-rkxpeR8)
-
-
+10. "Computer Networking: A Top-Down Approach" – Kurose & Ross supported by Network: TCP/IP Illustrated, Volume 1: The Protocols, 2nd Edition and Volumes 2 and 3
+11. [Especialização em Criptografia aplicada](https://www.coursera.org/specializations/applied-crypto) || Stallings Criptografia e segurança de redes
+12. Database Systems CMU 15-445/645
 
 ## Cybersecurity
 
 I'm thinking of using the PWN College curriculum as a road with supported by books bellow.
 
-### Specializations and Courses
-
-- [Especialização em Práticas de codificação segura - Coursera UC Davis](https://www.coursera.org/specializations/secure-coding-practices)
-- [Especialização em Segurança de computadores e gerenciamento de sistemas - Coursera](https://www.coursera.org/specializations/computer-security-systems-management)
-- [Especialização em CompTIA Network+ Certification (N10-008): The Total Course -Coursera](https://www.coursera.org/specializations/packt-comptia-network-certification-n10-008-the-total-course)
-- [VPN Tunneling with OpenVPN: Secure Network Connections - Coursera](https://www.coursera.org/projects/vpn-tunneling-with-openvpn-secure-network-connections)
-- [Especialização em Computação em nuvemComputação em Nuvem - Coursera](https://www.coursera.org/specializations/cloud-computing)
-- [DFIR (Digital Forensics and Incident Response)](https://www.mentebinaria.com.br/courses/course/2-dfir/)
-- [Especialização em Fundamentos da segurança de redes de computadores](https://www.coursera.org/specializations/computer-network-security)
-- [Especialização em Projeto avançado de segurança de sistemas](https://www.coursera.org/specializations/advanced-system-security-design)
+### Projects
+1.
 
 ### Books
 
